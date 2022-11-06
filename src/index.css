@@ -1,0 +1,29 @@
+@font-face{
+ font-family: 'Times New Roman', Times, serif;
+
+}
+
+*{
+  font-family:Arial, Helvetica, sans-serif, black
+  
+}
+
+body{
+  display: flex;
+  height: 60vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 10%;
+ 
+
+  color: rgb(255, 255, 255);
+  background: linear-gradient(to right, rgb(119, 188, 215), rgb(2, 15, 159))
+}
+#Derson{
+  width: 100%;
+  padding: auto;
+  margin-top: 500%;
+  margin-left: -200%;
+  align-items: center;
+}

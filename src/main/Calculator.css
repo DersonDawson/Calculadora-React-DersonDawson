@@ -1,0 +1,22 @@
+.calculator{
+    height: 380px;
+    width: 235px;
+    border-radius: 20px;
+    overflow: hidden;
+    
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-template-rows: 1fr 60px 60px 60px 60px 60px;
+
+
+}
+.Derson{
+    width: 200px;
+    padding: auto;
+    margin-top: 600%;
+    margin-left: -200%;
+  shape-margin: 10cm;
+    mask-image: -moz-linear-gradient(color-white, rgba(255, 255, 255 ));
+    filter:contrast(175%) brightness(3%) saturate(5%) ;
+    
+}
